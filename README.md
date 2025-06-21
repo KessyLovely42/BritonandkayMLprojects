@@ -1,2 +1,2 @@
 # BritonandkayMLprojects
-This project contains Machine Learning models and ETL pipelines for Briton and Kay Supermarket.
+This project contains Machine Learning models and ETL pipelines for a Retail company.
